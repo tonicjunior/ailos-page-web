@@ -8,12 +8,12 @@
 
 ## Getting started with Project
 
-Realize o download/clone do projeto Ailos, em seguida baixe as dependências/pacotes com o comando `npm install` na pasta raiz da aplicação.
+Realize o download do projeto Ailos, em seguida baixe as dependências/pacotes com o comando `npm install` (na pasta raiz da aplicação).
 
 É necessário rodar o comando `npm run server` na raiz do projeto para inicializar a API.
-O comando `ng s -o` é responsavel por rodar o projeto angular e apresenta-lo no navegador padrão.
+O comando `ng s -o` é responsável por rodar o projeto angular apresentando a aplicação no navegador padrão.
 
-## Cooperate Users
+## Cooperate users
 
 ["id": 1,
 "cpf": "46928430800",
