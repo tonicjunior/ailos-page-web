@@ -15,54 +15,29 @@ O comando `ng s -o` é responsavel por rodar o projeto angular e apresenta-lo no
 
 ## Cooperate Users
 
-{
-"id": 1,
+["id": 1,
 "cpf": "46928430800",
-"name": "Clara Francisca Ribeiro",
-"situation": "Regular",
-"accountNumber": "0611208-0",
-"currentAccount": "0389495-9"
-},
-{
-"id": 2,
+"name": "Clara Francisca Ribeiro"]
+
+["id": 2,
 "cpf": "51499986726",
-"name": "Alice Sophia Lorena Nogueira",
-"situation": "Regular",
-"accountNumber": "248390-4",
-"currentAccount": "1668765-0"
-},
-{
-"id": 3,
+"name": "Alice Sophia Lorena Nogueira"]
+
+["id": 3,
 "cpf": "67255476805",
-"name": "Isabelle Andreia Larissa Ferreira",
-"situation": "Regular",
-"accountNumber": "0670078-0",
-"currentAccount": "0853026-2"
-},
-{
-"id": 4,
+"name": "Isabelle Andreia Larissa Ferreira"]
+
+["id": 4,
 "cpf": "65554868991",
-"name": "Raimundo Geraldo Sebastião Nogueira",
-"situation": "Regular",
-"accountNumber": "1003616-4",
-"currentAccount": "07175060-6"
-},
-{
-"id": 5,
+"name": "Raimundo Geraldo Sebastião Nogueira"]
+
+["id": 5,
 "cpf": "80605166633",
-"name": "Gabrielly Sueli Moura",
-"situation": "Regular",
-"accountNumber": "261268-2",
-"currentAccount": "273240-8"
-},
-{
-"id": 6,
+"name": "Gabrielly Sueli Moura"]
+
+["id": 6,
 "cpf": "72594287679",
-"name": "Fernando Enrico Fogaça",
-"situation": "Regular",
-"accountNumber": "0328856-0",
-"currentAccount": "0328856-0"
-}
+"name": "Fernando Enrico Fogaça"]
 
 ## Author
 
